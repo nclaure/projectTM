@@ -1,30 +1,41 @@
 
 
 body {font-family: "Helvetica", monospace;}
-h3{font-family: "Garamond";}
-h1{font-family: "Futura", monospace;}
+h1{font-family: "Helvetica", monospace;}
+h3{font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+   font-weight: 300;
+  }
 
-h4,h6 {
-font-family: serif;
 
 }
 
-h1{font-size: 60px}
-h2{font-size: 2em}
+h1{font-size: 20px}
 h6{font-size: 20px}
-h7{font-size: 20px}
+h3{width: 160px;
+text-align: right;
+position: absolute;
+right: 0px;
+padding: 5em;
 
-h1{color: #ff0022;}
+}
+
+a{
+  color:inherit;
+  display: inline-block;
+  transition: 100ms;
+  padding:20em;
+  border: 50px solid;
+  margin: .1em;
+  height:100%;
+  width:80%;
+  text-align:right;
 
 
+}
 
-.test-subject{background-color: yellow;}
-.content{color: #ff0022;}
+a:hover{
+  color: black
 
 
 h3{line-height: 1.7}
 p{font-size: 2em}
-
-
-
-h3{border-left: 4px dotted red;}

@@ -1,1 +1,30 @@
 
+
+body {font-family: "Helvetica", monospace;}
+h3{font-family: "Garamond";}
+h1{font-family: "Futura", monospace;}
+
+h4,h6 {
+font-family: serif;
+
+}
+
+h1{font-size: 60px}
+h2{font-size: 2em}
+h6{font-size: 20px}
+h7{font-size: 20px}
+
+h1{color: #ff0022;}
+
+
+
+.test-subject{background-color: yellow;}
+.content{color: #ff0022;}
+
+
+h3{line-height: 1.7}
+p{font-size: 2em}
+
+
+
+h3{border-left: 4px dotted red;}

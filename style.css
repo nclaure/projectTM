@@ -2,7 +2,7 @@
 
 body {font-family: "Helvetica", monospace;}
 h1{font-family: "Helvetica", monospace;}
-h3{font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+.lyrics {font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
    font-weight: 300;
   }
 
@@ -10,14 +10,14 @@ h3{font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue",
 }
 
 h1{font-size: 20px}
-h6{font-size: 20px}
-h3{width: 160px;
+.lyrics {width: 160px;
 text-align: right;
 position: absolute;
 right: 0px;
 padding: 5em;
 
 }
+
 
 a{
   color:inherit;
@@ -27,7 +27,7 @@ a{
   border: 50px solid;
   margin: .1em;
   height:100%;
-  width:80%;
+  width:100%;
   text-align:right;
 
 
@@ -35,7 +35,36 @@ a{
 
 a:hover{
   color: black
+}
 
-
-h3{line-height: 1.7}
+h2{line-height: 1.7
+padding: 3em;
+margin: 1px;
+text-align: bottom;
+}
 p{font-size: 2em}
+
+.margin, .rap, .dada, .ok, .john{
+
+  margin: 19em;
+  margin-left: 1100px;
+}
+
+
+
+body {
+  background: url(pce.png);
+  background-position: bottom;
+  background-size: 21.8in;
+  background-repeat: no-repeat;
+  height:100%;
+  width:100%;
+  position:relative;
+  background-clip: border-box;
+  background-origin: padding-box;
+
+
+  }
+
+
+  h2{font-size: 40em}

@@ -42,7 +42,7 @@ padding: 3em;
 margin: 1px;
 text-align: bottom;
 }
-p{font-size: 2em}
+p{font-size: 1em}
 
 .margin, .rap, .dada, .ok, .john{
 
@@ -80,4 +80,6 @@ body {
   position:relative;
   text-align: center; 32em;
 width: 40em;
-height: 93em}
+height: 93em
+
+}

@@ -2,10 +2,22 @@
 
 body {font-family: "Helvetica", monospace;}
 h1{font-family: "Helvetica", monospace;}
+.container
+{position: absolute;
+ margin-left: 20px;
+ width: 1200;
+ height: 1200;
+ line-height: 100em
+}
 .lyrics {font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
    font-weight: 300;
-  }
+   position: absolute;
 
+  }
+.margin {
+width: 600px;
+height: 600px;
+}
 
 }
 
@@ -91,5 +103,27 @@ h6 {font-size: 60em;
   text-align: center; 32em;
 width: 40em;
 height: 93em
+
+}
+
+
+
+.container1
+{
+
+
+
+}
+
+#Postepage
+{
+
+
+}
+
+#Lyricpage
+{
+
+
 
 }
